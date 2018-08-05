@@ -417,7 +417,7 @@ def helpbot():
                   "┃╰👽╮┃ " + key + "Bot3up「Kirim fotonya」\n" + \
                   "┃╰👽╮┃ " + key + "Gift:「Mid korban」「Jumlah」\n" + \
                   "┃╰👽╮┃ " + key + "Spam:「Mid korban」「Jumlah」\n" + \
-                  "╰━━━━━━━━━━━━━━━╯\n──┅━✥ ======= ✥━┅──\n┃🕵🐝┃ ┃zz7Bot┃ IndoCombat┃🐝🕵┃\n──┅━✥ ======= ✥━┅──\n╭━━━━━━━━━━━━━━━╮\n┣🇮🇩━⏩zz7Bot🇮🇩━⏩\n╰━━━━━━━━━━━━━━━╯\n"
+                  "╰━━━━━━━━━━━━━━━╯\n──┅━✥ ======= ✥━┅──\n┃🕵🐝┃ ┃zz7Bot┃ IndoCombat┃🐝🕵┃\n──┅━✥ ======= ✥━┅──\n╭━━━━━━━━━━━━━━━╮\n┣🕵🐝━⏩zz7Bot🐝🕵━⏩\n╰━━━━━━━━━━━━━━━╯\n"
     return helpMessage1
 
 def bot(op):
